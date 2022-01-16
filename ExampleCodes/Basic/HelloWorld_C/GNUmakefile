@@ -1,4 +1,5 @@
-AMREX_HOME ?= ../../../../amrex
+AMREX_HOME ?= /Users/aaronng/Desktop/CAM SC/amrex
+
 
 DEBUG	= FALSE
 DEBUG	= TRUE
